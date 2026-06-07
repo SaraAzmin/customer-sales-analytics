@@ -55,5 +55,3 @@ The dashboard has five pages:
 ![Category Detail](screenshots/05_Category_Detail.png)
 
 ---
-
-**Sara Azmin** — [GitHub](https://github.com/SaraAzmin) | [LinkedIn](https://linkedin.com/in/your-profile)
